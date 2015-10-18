@@ -15,3 +15,7 @@
  
  Solution?   Use this cirros for virt image (virt-cirros), It will boot within few seconds and is specially made
  for virtualization platforms. 
+ 
+ Download Link : https://github.com/eprasad/virt-cirros/raw/master/virt-cirros-0.3.4-x86_64-disk.img
+ 
+
