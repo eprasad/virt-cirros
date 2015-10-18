@@ -1,9 +1,10 @@
 # virt-cirros
- Many run CirrOS on cloud for testing, learning, training or even demos. Its fast,lightweight OS that specializes in 
- running on a cloud.  OpenStack deployments are mostly tested using CirrOS. It is versatile for various test scenarios,
- Be it network or orchestration. Everyone loves cirros on cloud but what about virtualization? 
+ Many run CirrOS on cloud for testing, learning, training or even demos. Its fast, lightweight, agile OS that 
+ specializes in running on a cloud. 
  
- Yes, Virtualization Platforms are still there and many use them. I want to do someting testing on my virtualization
+OpenStack deployments are mostly tested using CirrOS. It is versatile for various test scenarios, Be it network or orchestration. Everyone loves cirros on cloud but what about virtualization? 
+ 
+ Yes, Virtualization Platforms are still there and many use them. I want to do some testing on my virtualization
  platform (vmware,kvm,virtual-box), Can I use CirrOS image?  The answer is yes, The official CirrOS image works with
  any virtualization platform you name it. However, There is a small problem. It comes with cloud-init configured. 
  
@@ -14,7 +15,7 @@
  virtualization platforms. 20 seconds is huge for impatient system administrator like me. Correct?   
  
  Solution?   Use this cirros for virt image (virt-cirros), It will boot within few seconds and is specially made
- for virtualization platforms. 
+ for virtualization platforms. cloud-init is disbaled  :) 
  
  Download Link : https://github.com/eprasad/virt-cirros/raw/master/virt-cirros-0.3.4-x86_64-disk.img
  
