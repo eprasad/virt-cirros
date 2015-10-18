@@ -1,8 +1,6 @@
 # virt-cirros
 Many run CirrOS on cloud for testing, learning, training or even demos. Its fast, lightweight, agile OS that
-specializes in running on a cloud. 
- 
-OpenStack deployments are mostly tested using CirrOS. It is versatile for various test scenarios, Be it network or orchestration. Everyone loves cirros on cloud but what about virtualization? 
+specializes in running on a cloud.  OpenStack based cloud deployments are mostly tested using CirrOS. It is versatile for various test scenarios, Be it network or orchestration. Everyone loves cirros on cloud but what about virtualization? 
  
 Yes, Virtualization Platforms are still there and many use them. I want to do some testing on my virtualization
 platform (vmware,kvm,virtual-box), Can I use CirrOS image?  The answer is yes, The official CirrOS image works with
