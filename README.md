@@ -1,4 +1,4 @@
-# virt-cirros
+# virt-cirrOS
 Many run CirrOS on cloud for testing, learning, training or even demos. Its fast, lightweight, agile OS that
 specializes in running on a cloud.  OpenStack based cloud deployments are mostly tested using CirrOS. It is versatile for various test scenarios, Be it network or orchestration. Everyone loves cirros on cloud but what about virtualization? 
  
