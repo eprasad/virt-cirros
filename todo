@@ -1,0 +1,9 @@
+- Add following utilities 
+    - tcpdump
+    - iperf 
+    - iozone
+
+- Add 8021q support 
+
+Suggestions are welcome. Let me know what you want to see in virt-cirros to meet 
+your virtualiation testing. 
