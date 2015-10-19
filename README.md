@@ -13,9 +13,10 @@ it starts finding the metadata server. If metedata server not found, retries con
 This 20 retries is equal to 20 seconds delay. So the official image of CirrOS will take 20 + seconds to boot on 
 virtualization platforms. 20 seconds is huge for impatient system administrator like me. Correct?   
  
-Solution?   Use this virtualization frindly virt-cirros image, It will boot within few seconds and is specially 
-customized to run on virtualization platforms. cloud-init is disabled  :) 
+Solution?  Use this virtualization friendly virt-cirros image, It will boot within few seconds and is specially customized to run on virtualization platforms. cloud-init is disabled, dhcp timeout reduced to 1 second from 3 minutes  :) 
  
 Download Link : https://github.com/eprasad/virt-cirros/raw/master/virt-cirros-0.3.4-x86_64-disk.img
+md5sum : 23a57eae58e8993e3ca22b2fe98ad1d4  
+
  
 
